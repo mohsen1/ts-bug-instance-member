@@ -6,6 +6,6 @@
   version "9.6.0"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.0.tgz#d3480ee666df9784b1001a1872a2f6ccefb6c2d7"
 
-typescript@^2.7.2:
-  version "2.7.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.7.2.tgz#2d615a1ef4aee4f574425cdff7026edf81919836"
+typescript@^2.9.0-dev.20180331:
+  version "2.9.0-dev.20180331"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.0-dev.20180331.tgz#0e2c40306a3e41b72d9a0619ff18a24ddafb8e71"
